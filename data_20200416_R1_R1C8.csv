@@ -1,0 +1,13 @@
+number,name_horse,horse_age,weight,race_place,distance,prize,win_odd,draw,entraineur,proprietaire,sex
+1,TJACKO ZAZ,8,0 ,0,2100,107091,6.9,1,J Westholm,Kings Arms I Avesta Ab,HONGRE
+2,WOLLAFUR,9,0 ,0,2100,104725,12,2,J Partanen,Englund Per Partanen Juhani,HONGRE
+3,PEDER MYKLA,10,0 ,0,2100,100399,29,3,J Danielsson,Danielsson Sune,HONGRE
+4,DEVIL SOUND,5,0 ,0,2100,105360,26,4,A Zackrisson,Fameas Ab,MALE
+5,YOUNG DA VICI,6,0 ,0,2100,92759,2.7,5,P Lennartsson,Team Young Ab,MALE
+6,SMOKEY HERMAN,8,0 ,0,2100,91627,6.4,6,U Stenstrmer,Ab Ybena,HONGRE
+7,GOLDA PARIS,7,0 ,0,2100,97461,36,7,I Nurmonen,Team Paris,FEMELLE
+8,LEADER BRODDE,6,0 ,0,2100,92242,7.1,8,M Djuse,Einari Vidgren Oy,HONGRE
+9,AD HOC,5,0 ,0,2100,92778,15,9,R Engblom,Norebyns Fastighetsfrvaltning Ab,MALE
+10,DRIVE LAUNCHER,9,0 ,0,2100,75535,16,10,J Sedstrm,Launcher Ab,HONGRE
+11,DONATELLA CENTER,8,0 ,0,2100,105573,22,11,J Partanen,Stall rebrohstarna,FEMELLE
+12,PABLO ANDOVER,8,0 ,0,2100,96311,44,12,BL Aelsson,Stall Pibelo Kb,HONGRE

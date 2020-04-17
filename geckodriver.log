@@ -1,0 +1,312 @@
+1586433247299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofilerBgaHP"
+1586433247580	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586433247962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586433247962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586433247962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586433247962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586433249356	Marionette	INFO	Listening on port 61293
+1586433249408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586433626079	Marionette	INFO	Stopped listening on port 61293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586433583747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586433583747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586433583747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586433583747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586433585249	Marionette	INFO	Listening on port 61458
+1586433585309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1586433586269	Marionette	INFO	Stopped listening on port 61458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586433912092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofilefxTC8A"
+1586433912345	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586433912606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586433912606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586433912606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586433912606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586433913988	Marionette	INFO	Listening on port 61597
+1586433914101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586434011859	Marionette	INFO	Stopped listening on port 61597
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586433944996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586433944997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586433944997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586433944997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586433946425	Marionette	INFO	Listening on port 61752
+1586433946495	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1586434010118	Marionette	INFO	Stopped listening on port 61752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Invalid extension permission: networkStatus
+1586433997593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586433997593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586433997593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586433997593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586433999164	Marionette	INFO	Listening on port 61882
+1586433999615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586434009483	Marionette	INFO	Stopped listening on port 61882
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586434041123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofilezJxyCh"
+1586434041380	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586434041641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586434041642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586434041642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586434041642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586434043103	Marionette	INFO	Listening on port 61994
+1586434043132	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://www.ebay.fr/nkfytkqtoxtljvzb.js, line 1: NS_ERROR_FAILURE: 
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.adsafeprotected.com/sca.17.4.114.js, line 31: NS_ERROR_FAILURE: 
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1586434522462	Marionette	INFO	Stopped listening on port 61994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586818563740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofileNc0CTj"
+1586818564372	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586818564704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586818564704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586818564704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586818564704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586818566238	Marionette	INFO	Listening on port 53930
+1586818566358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586818599165	Marionette	INFO	Stopped listening on port 53930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586818595609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586818595609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586818595609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586818595609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586818597390	Marionette	INFO	Listening on port 53983
+1586818597691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586818662765	Marionette	INFO	Stopped listening on port 53983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586818926345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofilehny8o4"
+1586818926604	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586818926887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586818926887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586818926887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586818926887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586818928291	Marionette	INFO	Listening on port 54285
+1586818928354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://jeux.loro.ch/static/scripts/libs-8a9362.js, line 14: TypeError: this.mql is null
+JavaScript error: https://jeux.loro.ch/static/scripts/core-2ec3d0.js, line 5: NS_ERROR_UNEXPECTED: 
+1586818949309	Marionette	INFO	Stopped listening on port 54285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586818964894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofileCwU4pw"
+1586818965250	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586818965527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586818965527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586818965527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586818965527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586818967001	Marionette	INFO	Listening on port 54369
+1586818967015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+1586819076011	Marionette	INFO	Stopped listening on port 54369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586819053971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586819053971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586819053971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586819053971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586819055403	Marionette	INFO	Listening on port 54533
+1586819055481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586819071217	Marionette	INFO	Stopped listening on port 54533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586819082089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofileDvGokx"
+1586819082342	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586819082614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586819082614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586819082614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586819082614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586819084053	Marionette	INFO	Listening on port 54654
+1586819084097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+1586845608361	Marionette	INFO	Stopped listening on port 54654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586846629800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofileYQ2dvC"
+1586846630425	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586846630681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586846630681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586846630681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586846630682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586846632176	Marionette	INFO	Listening on port 51578
+1586846632419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript warning: resource://devtools-client-shared/vendor/react-dom.js, line 1204: Error: Script terminated by timeout at:
+timeStamp@resource://devtools-client-shared/vendor/react-dom.js:1204:5
+SyntheticEvent@resource://devtools-client-shared/vendor/react-dom.js:1248:24
+Class@resource://devtools-client-shared/vendor/react-dom.js:1354:18
+Class@resource://devtools-client-shared/vendor/react-dom.js:1354:18
+getPooledEvent@resource://devtools-client-shared/vendor/react-dom.js:1373:22
+extractEvents@resource://devtools-client-shared/vendor/react-dom.js:4191:34
+extractEvents@resource://devtools-client-shared/vendor/react-dom.js:575:44
+runExtractedEventsInBatch@resource://devtools-client-shared/vendor/react-dom.js:605:29
+handleTopLevel@resource://devtools-client-shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools-client-shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools-client-shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools-client-shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools-client-shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools-client-shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools-client-shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools-client-shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools-client-shared/vendor/react-dom.js:4328:21
+
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+1586847833233	Marionette	INFO	Stopped listening on port 51578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586847344555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586847344555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586847344555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586847344555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586847345987	Marionette	INFO	Listening on port 62344
+1586847346031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+1586847831357	Marionette	INFO	Stopped listening on port 62344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586847844873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofile0HssPP"
+1586847845114	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586847845390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586847845390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586847845390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586847845390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586847846768	Marionette	INFO	Listening on port 62554
+1586847846881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript error: https://targetemsecure.blob.core.windows.net/a5f187fb-79af-439f-a13a-75d3bd2826b2/targetbase_1552517223.emsecure.min.js, line 2: TypeError: can't redefine non-configurable property "bt_queue"
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1, line 129: Error: Script terminated by timeout at:
+s_6Rg@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1:129:1
+s_dSg@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1:133:139
+s_ESg@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1:166:176
+s_FSg.prototype.wb@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1:167:127
+s_a.K3@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw:411:210
+s_a.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw:409:385
+s_c0.prototype.Da@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw/m=IkchZc,MkHyGd,NBZ7u,NpD4ec,OG6ZHd,RqxLvf,SvnKM,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,iD8Yk,kVbfxd,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xc1DSd,xz7cCd,yyqeUd,zbML3c?xjs=s1:139:288
+s_6ga@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw:266:243
+s_4ga@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw:267:249
+s_2ga/b<@https://www.google.com/xjs/_/js/k=xjs.s.fr.zVx2KJQYj1c.O/ck=xjs.s.saB2XdIhNfs.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAQAAMASgFk3AJz_QQAAF8o4AAAgQBvBxgIpIiEhAAGssAgAAQ/d=1/dg=2/ct=zgms/rs=ACT90oGxIH7KLSfRxXHle6D-75eZ_tz2fw:263:277
+
+1586849554522	Marionette	INFO	Stopped listening on port 62554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586850147427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DUCHUY~1.NGU\\AppData\\Local\\Temp\\rust_mozprofilebNQ29X"
+1586850147683	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586850147956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586850147956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586850147956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586850147956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586850149291	Marionette	INFO	Listening on port 53971
+1586850149437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1586850514861	Marionette	INFO	Stopped listening on port 53971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

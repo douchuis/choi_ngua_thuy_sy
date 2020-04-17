@@ -1,0 +1,11 @@
+number,name_horse,horse_age,weight,race_place,distance,prize,win_odd,draw,entraineur,proprietaire,sex
+2,HOPEFUL LEE,4,0 ,0,2140,95,30,2,M Aho,Strvalla Grd Ab,FEMELLE
+3,THESPYWHOLOVEDME,3,0 ,0,2140,245,36,3,B Westergaard,Flaata Stable As,HONGRE
+4,EMBAKASI SUN,3,0 ,0,2140,0,4.8,4,F Hamre,Djuve Eirik,FEMELLE
+5,OMFAVONE,5,0 ,0,2140,1461,5.9,5,S Olsson,Olsson Sara,FEMELLE
+6,SWEET CAROLA,4,0 ,0,2140,1671,8.5,6,E Sandin,Kristersson PerOve,FEMELLE
+7,GLOBAL BORN TO RUN,3,0 ,0,2140,0,8.7,7,J Untersteiner,Invebo Ab,MALE
+9,FOREIGN RAIN,3,0 ,0,2140,764,7.3,9,R Bergh,Stall Droad Ab,MALE
+10,KILMISTER BOKO,3,0 ,0,2140,0,8.6,10,C Lugauer,Jimmit Ab,HONGRE
+11,ECLUSIVE RAIN,4,0 ,0,2140,1528,5.5,11,P Untersteiner,Leif Bergwall Ab,HONGRE
+12,GALILEO SISU,4,0 ,0,2140,47,15,12,M Elfstrand,Stall Dnd Trotting Kb,HONGRE

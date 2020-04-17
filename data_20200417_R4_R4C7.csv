@@ -1,0 +1,13 @@
+number,name_horse,horse_age,weight,race_place,distance,prize,win_odd,draw,entraineur,proprietaire,sex
+1,ORNSTEIN,5,0 ,0,2140,26997,28,1,K Haugstad,Qlina System Ab,HONGRE
+2,PELLE ROC,5,0 ,0,2140,27484,35,2,MB Hedman,Hedman Mertsi,HONGRE
+3,NIKLAS MJ,6,0 ,0,2140,27752,12,3,P Lundberg,Stall En Fyra Hb,HONGRE
+4,MINGAIT TOOMA,4,0 ,0,2140,28563,12,4,J Ivanov,Stall Oalis,FEMELLE
+5,HERSEY BOKO,6,0 ,0,2140,28764,34,5,LMB Orefors,Orefors Lisa Maria Lhds Kakel Ab,FEMELLE
+6,BUSHY TAILS,4,0 ,0,2140,29222,49,6,P Aikio,Stall Segerhuva,FEMELLE
+7,ANNOUNCEMENT,5,0 ,0,2140,30684,3.4,7,J Ehlers,Cajback Roy Andersson Nicke,HONGRE
+8,RUNNING LIKE HELL,5,0 ,0,2140,31877,24,8,LD Carlson,Carlson Lars D,MALE
+9,CHOCO GARLINE,6,0 ,0,2140,29767,10,9,MB Jernemyr,Stall Sefrema Hb,HONGRE
+10,GLOBAL TUEDO,7,0 ,0,2140,30617,41,10,H Larsson,Henke Training Ab,HONGRE
+11,FLEIBLE JOURNEY,5,0 ,0,2140,30951,17,11,J Utala,Team Flei,HONGRE
+12,URET,7,0 ,0,2140,33701,3.1,12,P Aikio,Travkompaniets Stall Ab,HONGRE
